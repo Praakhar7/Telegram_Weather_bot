@@ -36,7 +36,7 @@ bot.on("text", async (ctx) => {
       } ${current.weather_descriptions[0]}`
     );
     setInterval(() => {
-      console.log('HELLO GEEK');
+     
 
       
     ctx.reply(
